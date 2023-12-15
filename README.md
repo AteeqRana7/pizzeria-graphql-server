@@ -55,7 +55,7 @@ Open your browser and visit http://localhost:8080 to access the GraphQL playgrou
 
 # Technologies Used
 
-The book management system is built using the following technologies:
+The pizzeria application is built using the following technologies:
 
 Frontend:
 
