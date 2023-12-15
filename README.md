@@ -22,7 +22,7 @@ Before running this application, make sure you have the following software insta
 
 # Getting Started
 
-Follow these steps to get the book management system up and running on your local machine.
+Follow these steps to get the pizzeria application up and running on your local machine.
 
 Clone the repository:
 
